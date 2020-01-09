@@ -1,4 +1,4 @@
 <?php
-echo "你比是个东西";
+echo "你比是个东西asdasdasdas";
 
 ?>
